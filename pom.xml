@@ -4,7 +4,7 @@
   <groupId>tech</groupId>
   <artifactId>mahindra</artifactId>
   <packaging>war</packaging>
-  <version>3.0.2-SNAPSHOT</version>
+  <version>1.2.2-SNAPSHOT</version>
      <name>mahindra Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
@@ -26,8 +26,8 @@
 </dependencies>
 <distributionManagement>
   <snapshotRepository>
-    <id>deloitte</id>
-    <url>http://18.222.171.180:8082/nexus/content/repositories/deloitte</url>
+    <id>rao</id>
+    <url>http://localhost:8081/nexus/content/repositories/rao</url>
   </snapshotRepository>
 </distributionManagement>
  
